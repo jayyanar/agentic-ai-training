@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+chroma-langchain
+pypdf
+beautifulsoup4
+bs4
+tiktoken
+lark
+langchain-community

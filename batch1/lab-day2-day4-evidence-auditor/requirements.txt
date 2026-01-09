@@ -1,0 +1,14 @@
+langgraph==0.2.16
+langchain==0.3.0
+langchain-openai==0.2.0
+pinecone==5.0.0
+streamlit==1.38.0
+fastapi==0.115.0
+uvicorn==0.30.0
+easyocr==1.7.1
+Pillow==10.4.0
+python-multipart==0.0.9
+pydantic==2.9.0
+pandas==2.2.0
+langchain-community==0.3.0
+pypdf==4.3.1
