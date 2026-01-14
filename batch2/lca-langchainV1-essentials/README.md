@@ -38,18 +38,18 @@ Open any notebook in Colab using the badges below.
 
 **Mandatory Notebooks (Colab-ready)**
 
-- L1_fast_agent.ipynb  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/mandatory/L1_fast_agent.ipynb)
-- L3_streaming.ipynb   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/mandatory/L3_streaming.ipynb)
-- L4_tools.ipynb       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/mandatory/L4_tools.ipynb)
-- L6_memory.ipynb      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/mandatory/L6_memory.ipynb)
-- L7_structuredOutput.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/mandatory/L7_structuredOutput.ipynb)
+- L1_fast_agent.ipynb  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L1_fast_agent.ipynb)
+- L3_streaming.ipynb   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L3_streaming.ipynb)
+- L4_tools.ipynb       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L4_tools.ipynb)
+- L6_memory.ipynb      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L6_memory.ipynb)
+- L7_structuredOutput.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L7_structuredOutput.ipynb)
 
 **Optional Notebooks (Colab-ready)**
 
-- L2_messages.ipynb    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/optional/L2_messages.ipynb)
-- L5_tools_with_mcp.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/optional/L5_tools_with_mcp.ipynb)
-- L8_dynamic.ipynb     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/optional/L8_dynamic.ipynb)
-- L9_HITL.ipynb        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/langchain-ai/lca-langchainV1-essentials/blob/main/optional/L9_HITL.ipynb)
+- L2_messages.ipynb    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L2_messages.ipynb)
+- L5_tools_with_mcp.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L5_tools_with_mcp.ipynb)
+- L8_dynamic.ipynb     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L8_dynamic.ipynb)
+- L9_HITL.ipynb        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L9_HITL.ipynb)
 
 ### Getting Started with LangSmith
 
