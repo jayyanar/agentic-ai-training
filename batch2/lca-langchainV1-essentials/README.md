@@ -36,20 +36,24 @@ Or install packages directly in Colab if you prefer specific versions:
 
 Open any notebook in Colab using the badges below.
 
-**Mandatory Notebooks (Colab-ready)**
+## Mandatory Notebooks (Colab-ready)
 
-- L1_fast_agent.ipynb  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L1_fast_agent.ipynb)
-- L2_messages.ipynb    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L2_messages.ipynb)
-- L3_streaming.ipynb   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L3_streaming.ipynb)
-- L4_tools.ipynb       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L4_tools.ipynb)
-- L6_memory.ipynb      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L6_memory.ipynb)
-- L7_structuredOutput.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L7_structuredOutput.ipynb)
+| Notebook | Description | Colab |
+|----------|-------------|-------|
+| L1_fast_agent.ipynb | 🤖 Create Agent - Build an SQL agent in just a few lines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L1_fast_agent.ipynb) |
+| L2_messages.ipynb | 🧱 Messages - Learn how messages convey information between components | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L2_messages.ipynb) |
+| L3_streaming.ipynb | 📡 Streaming - Reduce latency using streaming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L3_streaming.ipynb) |
+| L4_tools.ipynb | 🔧 Tools - Enhance your model with custom or prebuilt tools | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L4_tools.ipynb) |
+| L6_memory.ipynb | 💾 Memory - Give your agent the ability to maintain state | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L6_memory.ipynb) |
+| L7_structuredOutput.ipynb | 📋 Structured Output - Produce structured output from your agent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/mandatory/L7_structuredOutput.ipynb) |
 
-**Optional Notebooks (Colab-ready)**
+## Optional Notebooks (Colab-ready)
 
-- L5_tools_with_mcp.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L5_tools_with_mcp.ipynb)
-- L8_dynamic.ipynb     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L8_dynamic.ipynb)
-- L9_HITL.ipynb        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L9_HITL.ipynb)
+| Notebook | Description | Colab |
+|----------|-------------|-------|
+| L5_tools_with_mcp.ipynb | 🌐 MCP Tools - Use the LangChain MCP adapter to access MCP tools | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L5_tools_with_mcp.ipynb) |
+| L8_dynamic.ipynb | 🎯 Dynamic Prompts - Dynamically modify the agent's system prompt | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L8_dynamic.ipynb) |
+| L9_HITL.ipynb | 👥 Human-in-the-Loop - Enable interrupts for human interactions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-1/batch2/lca-langchainV1-essentials/optional/L9_HITL.ipynb) |
 
 ### Getting Started with LangSmith
 
