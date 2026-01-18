@@ -1,1 +1,12 @@
-This is strictly internal training
+# Jan'26 Batch Day 3 Labs
+
+This repository contains the hands-on labs for Day 3 of the Agentic AI Training workshop (Jan 2026 Batch). The labs focus on **LangGraph Persistence**, **Human-in-the-Loop (HITL)** workflows, and **LLM Observability**.
+
+## Lab List
+
+| Lab | Topic | Description | Key Concepts | Colab Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lab 3.1** | **LangGraph Persistence** | Add memory to the graph to remember state across interactions (long-running conversations). | Checkpointer, MemorySaver, Thread ID | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-3/Jan'26%20batch%20Day%203%20Labs/Lab3_1_LangGraph_Persistence.ipynb) |
+| **Lab 3.2** | **HITL Basics** | Learn how to pause execution of a graph to allow for human intervention. | Interrupts (before/after), State Inspection, State Update, Resuming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-3/Jan'26%20batch%20Day%203%20Labs/Lab3_2_LangGraph_HITL_Basics.ipynb) |
+| **Lab 3.3** | **HITL Review Pattern** | Implement a "Review Tool Calls" pattern where a human must approve sensitive actions before execution. | Interrupt before tools, Inspecting Pending Tool Calls, Approve vs. Reject (state update) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-3/Jan'26%20batch%20Day%203%20Labs/Lab3_3_LangGraph_HITL_Review.ipynb) |
+| **Lab 3.4** | **Observability (Arize Phoenix)** | Instrument LLM applications (LangChain & LangGraph) for observability using Arize Phoenix to trace and debug complex flows. | OpenTelemetry Traces, Arize Phoenix, Debugging LangGraph nodes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/agentic-ai-training/blob/lab-day-3/Jan'26%20batch%20Day%203%20Labs/Lab3_4_Arize_Phoenix.ipynb) |
