@@ -1,0 +1,38 @@
+Wells Fargo Mortgage Lending Guidelines - Internal Policy Use Only
+
+1. CONFORMING LOANS
+   - Definition: Loans that meet the purchase limits set by Fannie Mae and Freddie Mac.
+   - Max Loan Amount: $766,550 for single-family homes (as of 2024).
+   - Minimum Credit Score: 620.
+   - Down Payment: Minimum 3% for first-time homebuyers, otherwise 5%.
+   - DTI Ratio: Maximum 50% with compensating factors.
+   - Reserves: Not always required, depending on DU/LP findings.
+
+2. JUMBO LOANS
+   - Definition: Loans exceeding the conforming loan limits.
+   - Minimum Credit Score: 700 for LTV up to 80%; 720 for LTV up to 90%.
+   - Down Payment: Minimum 10% required.
+   - DTI Ratio: Strictly capped at 43%.
+   - Reserves: 6 months of PITI required.
+   - Appraisal: Two full appraisals required for loan amounts > $1.5M.
+
+3. FHA LOANS
+   - Definition: Government-backed loans insured by the Federal Housing Administration.
+   - Minimum Credit Score: 580 for 3.5% down payment; 500-579 for 10% down payment.
+   - DTI Ratio: Up to 57% allowed in some cases.
+   - MIP (Mortgage Insurance Premium): Upfront 1.75% + Annual MIP required for the life of the loan if LTV > 90%.
+   - Property Requirements: Must meet FHA safety guidelines (no peeling paint, safety handrails required).
+
+4. VA LOANS
+   - Definition: Loans for eligible veterans and service members.
+   - Down Payment: 0% required.
+   - PMI: No private mortgage insurance required.
+   - Funding Fee: Required unless the veteran has a service-connected disability.
+   - DTI Ratio: No strict cap, but residual income analysis is key.
+
+5. GENERAL UNDERWRITING REQUIREMENTS
+   - Income: 2 years of consistent employment history required. Self-employed borrowers need 2 years of tax returns.
+   - Assets: Large deposits must be sourced and explained.
+   - Bankruptcy: 
+     - Chapter 7: 4-year waiting period for Conventional, 2 years for FHA/VA.
+     - Chapter 13: 2-year waiting period after discharge for Conventional, 1 year of payout period for FHA/VA.
