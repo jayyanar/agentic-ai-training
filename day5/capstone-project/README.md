@@ -157,7 +157,7 @@ We provide **two comprehensive guides** for different frameworks. Choose based o
 **Prerequisites:**
 - ✅ Completed Day 4 Labs (1-12)
 - ✅ Google Cloud account
-- ✅ Gemini API access
+- ✅ LLM API access
 - ✅ Understanding of ADK patterns
 
 ---
